@@ -21,7 +21,7 @@ We think that IM makes us more prone to use super common words and formulate syn
 
 ## Impulsiveness lock
 Jane had a heartbreaking argument with Joe yesterday. Now, she wants to express her feelings about it and carefully chooses every single word she says. Joe is still furious when he receives the message, and so he abruptly replies. This isn’t good. We want to let Jane make Joe wait at least three minutes before replying to that particular message.
-![Fig1](images/1.jpg)
+![Fig1](1.jpg)
  
 ## Empathy checker
 Do you know how you feel when you’ve just sent Jack a 400-word message recalling a great memory from the old times and all you receive back is “haha yes gr8”?
@@ -40,7 +40,7 @@ Delivery/read receipts, “Bob is typing…” info, and the user’s last seen,
 AboutUs is healthy at any age. If you are a youngster or an adult, you can preserve and strengthen your already settled communication skills. But AboutUs also has an educational purpose for children and teens. They can learn to develop linguistic and self-expression skills. Remember to pick the most appropriate feature set in order to reach your goal!
 
 We hope AboutUs can help avoiding situations like this:
-![Fig2](images/2.png)
+![Fig2](2.png)
  
 ## Rules proposal
 We’ve started to think about how we could use AboutUs’ capabilities to improve chats. Users will choose the set of rules they like. What about, for example, setting a daily limit to the number of short/extremely short messages, in order to encourage full expression of ourselves?
@@ -62,4 +62,4 @@ We are full-time Computer Engineering students. We have developed a good technic
 
 [Simone](https://www.linkedin.com/in/simone-marullo-27664b106/) is a 21-year-old Engineering student. He started playing around with code when he was a child. Now he’s interested in decentralising platforms, machine learning and free software.
 
-![Fig3](images/3.jpg)
+![Fig3](3.jpg)
