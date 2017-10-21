@@ -13,7 +13,6 @@
     <![endif]-->
 
 {% seo %}
-    {{page.path}}
   </head>
 
   <body>
@@ -23,6 +22,11 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        {% if   page.path == "README.md" %}
+        <a href="italian.html" class="button"><small>Italian</small> version</a>
+        {% elsif page.path == "italian.html" %}
+        <a href="/" class="button"><small>English</small> version</a>
+        {% endif %}
       </div>
     </header>
 
