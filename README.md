@@ -25,6 +25,7 @@ Jane had a heartbreaking argument with Joe yesterday. Now, she wants to express 
  
 ## Empathy checker
 Do you know how you feel when you’ve just sent Jack a 400-word message recalling a great memory from the old times and all you receive back is “haha yes gr8”?
+![Fig4](4.jpg)
 
 Well, we’d like to automatically estimate a message’s life intensity and ask Jack if he really wants to behave emotionlessly, or if he was just caught in a hurry and would like to put more significance in his answer.
 
