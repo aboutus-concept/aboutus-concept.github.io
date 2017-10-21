@@ -1,6 +1,8 @@
 ---
+layout: default
 language: english
 ---
+
 ### about us, our feelings, thoughts, plans, desires.
 
 Messaging platforms are quickly evolving over time. In the beginning there was the plain-text SMS, then smileys were invented, and today our conversations are full of emojis, GIFs, and fun videos.
