@@ -1,6 +1,5 @@
 ---
 layout: default
-language: english
 ---
 
 ### about us, our feelings, thoughts, plans, desires.
