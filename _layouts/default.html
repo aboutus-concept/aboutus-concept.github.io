@@ -22,10 +22,9 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        {% if page.language_v == "italian" %}
+        {% if page.language == "italian" %}
           <a href="english.html" class="button"><small>English</small> version</a>
-        {% endif %}
-        {% if page.language_v == "english" %}
+        {% elsif page.language == "english" %}
           <a href="italian.html" class="button"><small>Italian</small> version</a>
         {% endif %}
       </div>
