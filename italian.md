@@ -1,7 +1,3 @@
----
-description: Manifesto ideale di una chat che rispetti l'essere umano
----
-
 ### su di noi, sui nostri sentimenti, i nostri pensieri, piani, desideri...
 
 Le piattaforme di comunicazione cambiano velocemente: all'inizio c'erano i semplici SMS, poi sono arrivate le emoticon, oggi GIF e video divertenti traboccano dalle nostre conversazioni. È sufficiente una rapida occhiata per notare come il contenuto unico, autentico, che parla veramente 'di noi', stia sparendo anche dalle conversazioni con le persone a cui teniamo di più. 
