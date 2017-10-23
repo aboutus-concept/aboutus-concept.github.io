@@ -1,3 +1,7 @@
+---
+description: Manifesto ideale di una chat che rispetti l'essere umano
+---
+
 ### su di noi, sui nostri sentimenti, i nostri pensieri, piani, desideri...
 
 Le piattaforme di comunicazione cambiano velocemente: all'inizio c'erano i semplici SMS, poi sono arrivate le emoticon, oggi GIF e video divertenti traboccano dalle nostre conversazioni. È sufficiente una rapida occhiata per notare come il contenuto unico, autentico, che parla veramente 'di noi', stia sparendo anche dalle conversazioni con le persone a cui teniamo di più. 
@@ -6,6 +10,8 @@ Le piattaforme di comunicazione cambiano velocemente: all'inizio c'erano i sempl
 Siamo convinti che le piattaforme chat 'moderne' tendano a sopprimere il bisogno naturale di esprimere noi stessi e lo rimpiazzino con l'impulso a condividere contenuti virali, preconfezionati in modo standardizzato. Senza contare l'uso sovrabbondante di slang e linguaggio scarno, scialbo e volgare! Il meccanismo è trascinante: nessuno negherà che l'ultima GIF che gli hai inviato fa morire dal ridere...
 
 È per questo che vogliamo costruire una piattaforma di chat che ci aiuti a parlare di noi, a focalizzarci sulle nostre relazioni e che incoraggi l'introspezione. Non vogliamo che le persone si trasformino in propagatori semi-automatici di meme!
+
+Questa campagna è essa stessa un esperimento sociale: le persone vogliono prendere una posizione su come debbano funzionare le loro comunicazioni tramite chat o preferiscono che siano altri (e i lori interessi) a deciderlo?
 
 ## Concretamente parlando
 Vogliamo costruire una nuova piattaforma chat con caratteristiche uniche: niente foto, video o GIF (ci sono già altri mezzi per condividere quel tipo di contenuti!). AboutUs sarà letteralmente 'su di noi' , sui nostri sentimenti, pensieri, programmi e desideri.
