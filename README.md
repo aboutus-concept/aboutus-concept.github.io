@@ -1,3 +1,7 @@
+---
+description: Manifesto for a chat that respects humans
+---
+
 ### about us, our feelings, thoughts, plans, desires.
 
 Messaging platforms are quickly evolving over time. In the beginning there was the plain-text SMS, then smileys were invented, and today our conversations are full of emojis, GIFs, and fun videos.
@@ -6,7 +10,7 @@ The issue is that the ratio of unique content produced by ourselves, with respec
 ## and now..
 We think that modern chat platforms tend to suppress our need for self-expression and replace it with the urge to share ready-made standard viral media, and to overuse poor language, vulgarity and slang. This is extremely tempting and contagious. No one can deny that the last weird GIF they received was ridiculously hilarious. We want to build an open source chat platform that will help us to talk about ourselves and focus on our relationships, and encourage introspection instead of turning us into semi-automatic, smartphone-addicted meme reposters. 
 
-This crowdfunding campaign is itself a social experiment. Do people want to take a stance on chat features and rules, or would they rather have big companies deal with these issues?
+This campaign is itself a social experiment. Do people want to take a stance on chat features and rules, or would they rather have big companies deal with these issues?
 
  
 ## A concrete proposal
